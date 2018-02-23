@@ -170,6 +170,7 @@ body{
 .cost{
 	padding: 130px 0;
 	background: #fff;
+	text-align: center;
 }
 .burg1 h3{
 	color: #f39c22;
@@ -191,7 +192,7 @@ body{
 	margin-right: 0;
 }
 .buy a{
-	padding: 11px 25px;
+	padding: 15px 25px 8px;
 	background: #e1e1e1;
 	color: #0b1d2c;
 	text-decoration: none;

@@ -166,6 +166,13 @@
 	.service{
 		background-size: 650%;
 	}
+	.footer p{
+		float: none;
+		text-align: left;
+	}
+	.footer a{
+		float: none;
+	}
 }
 
 @media screen and (max-width: 540px){
@@ -178,6 +185,9 @@
 	.service2 ul{
 		width: 195px;	
 	}
+	.btn-a {
+    	width: 180%;
+	}
 	
 }
 
@@ -188,6 +198,9 @@
 	.btn{
 		float: left;
 		margin-top: 10px;
+	}
+	.btn-a {
+    	width: 183%;
 	}
 }
 
@@ -209,7 +222,12 @@
 		.photos2 img {
     	width: 47.9%;
 	}
+	.btn-a {
+    	width: 189%;
+	}
 }
+
+
 
 @media screen and (min-width: 930px){
 	.btn-menu{
