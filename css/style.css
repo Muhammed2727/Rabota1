@@ -12,6 +12,7 @@ body{
     height: 70px;
     background: #ffa326;
 	position: relative;
+	cursor: pointer;
 	z-index: 2;
 }
 .btn-menu span{

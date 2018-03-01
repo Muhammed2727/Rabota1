@@ -233,4 +233,10 @@
 	.btn-menu{
 		display: none;
 	}
+	.item .menu{
+		display: none;
+	}
+	.menu ul li{
+		display: none;
+	}
 }
